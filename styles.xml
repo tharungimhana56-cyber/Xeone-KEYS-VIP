@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.XeoneKey" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF007F</item>
+        <item name="colorPrimaryDark">#0D0221</item>
+        <item name="colorAccent">#00FFCC</item>
+    </style>
+</resources>
